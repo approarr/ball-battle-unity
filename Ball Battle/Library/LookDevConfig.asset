@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 13602, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LookDevContexts:
+  - m_Properties:
+    - floatValue: 0.22535211
+      intValue: 0
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: 2
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+  - m_Properties:
+    - floatValue: 0.22535211
+      intValue: 0
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: 2
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+  m_LookDevProperties:
+  - m_Linked: 1
+    m_PropertyType: 1
+  - m_Linked: 1
+    m_PropertyType: 0
+  - m_Linked: 1
+    m_PropertyType: 0
+  - m_Linked: 0
+    m_PropertyType: 1
+  - m_Linked: 0
+    m_PropertyType: 0
+  m_Gizmo:
+    m_Point1: {x: -0.25730056, y: 0.16263714}
+    m_Point2: {x: 0.2648148, y: -0.14629647}
+    m_Center: {x: 0.0037571043, y: 0.0081703365}
+    m_Angle: 5.2466803
+    m_Length: 0.3033333
+    m_Plane: {x: -0.5092312, y: -0.86062974, z: 0.008944869, w: -0}
+    m_PlaneOrtho: {x: -0.86062974, y: 0.50923127, z: -0.000927115, w: 0}
+  m_LookDevMode: 2
+  m_EnableToneMap: 1
+  m_EnableShadowCubemap: 1
+  m_ExposureRange: 8
+  m_ShadowDistance: 0
+  m_ShowBalls: 0
+  m_ShowControlWindows: 1
+  m_RotateObjectMode: 0
+  m_EnvRotationSpeed: 1
+  m_RotateEnvMode: 0
+  m_ObjRotationSpeed: 1
+  m_AllowDifferentObjects: 0
+  m_CurrentObject:
+  - {fileID: 0}
+  - {fileID: 0}
+  m_PreviewObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  m_CurrentContextEdition: 1
+  m_CurrentEditionContextIndex: 1
+  m_DualViewBlendFactor: -0.74606663
+  m_OriginalGameObject:
+  - {fileID: 1820640292641944, guid: 87b3db278b11c504bb8576269a675798, type: 2}
+  - {fileID: 1820640292641944, guid: 87b3db278b11c504bb8576269a675798, type: 2}
+  m_CameraState:
+  - m_Pivot:
+      m_Target: {x: 0, y: 0, z: 0}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0}
+    m_Rotation:
+      m_Target: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+      speed: 2
+      m_Value: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+    m_ViewSize:
+      m_Target: 2.8518453
+      speed: 2
+      m_Value: 2.8518453
+  - m_Pivot:
+      m_Target: {x: 0, y: 0, z: 0}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0}
+    m_Rotation:
+      m_Target: {x: 0.017946389, y: -0.07641304, z: 0.001375583, w: 0.996914}
+      speed: 2
+      m_Value: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+    m_ViewSize:
+      m_Target: 2.8518453
+      speed: 2
+      m_Value: 2.8518453
+  m_SideBySideCameraLinked: 1
+  m_CameraStateCommon:
+    m_Pivot:
+      m_Target: {x: 0, y: 0, z: 0}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0}
+    m_Rotation:
+      m_Target: {x: 0, y: 0, z: 0, w: 1}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_ViewSize:
+      m_Target: 2.8518453
+      speed: 2
+      m_Value: 2.8518453
+  m_CameraStateLeft:
+    m_Pivot:
+      m_Target: {x: 0, y: 0, z: 0}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0}
+    m_Rotation:
+      m_Target: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+      speed: 2
+      m_Value: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+    m_ViewSize:
+      m_Target: 2.8518453
+      speed: 2
+      m_Value: 2.8518453
+  m_CameraStateRight:
+    m_Pivot:
+      m_Target: {x: 0, y: 0, z: 0}
+      speed: 2
+      m_Value: {x: 0, y: 0, z: 0}
+    m_Rotation:
+      m_Target: {x: 0.017946389, y: -0.07641304, z: 0.001375583, w: 0.996914}
+      speed: 2
+      m_Value: {x: 0.017946385, y: -0.07641303, z: 0.0013755827, w: 0.9969138}
+    m_ViewSize:
+      m_Target: 2.8518453
+      speed: 2
+      m_Value: 2.8518453
